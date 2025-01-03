@@ -1,0 +1,14 @@
+{
+  "name": "bower-test",
+  "authors": [
+    "SultanAbuBaker <m8coollg@gmail.com>"
+  ],
+  "description": "test",
+  "main": "",
+  "license": "MIT",
+  "homepage": ""
+  ],
+  "dependencies": {
+    "@types/mime": "1.3.2"
+  }
+}
